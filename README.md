@@ -6,3 +6,8 @@
    ```bash
    git clone https://github.com/Shahbaz898414/Book_Search_using_React.git
    cd book-search-app
+
+2. Install dependencies:
+
+   ```bash
+   npm install
